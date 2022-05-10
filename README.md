@@ -15,7 +15,7 @@ Lenke til kartet: https://rawengaard.github.io/Forenklet_solkart/#9/59.9832/10.6
 
 ----------------------------------------------------------
 
-Simplified sunmap of optimal spaces to experience the sunrise and sunset in Oslo (summertime).
+Simplified sunmap of optimal places to experience the sunrise and sunset in Oslo (summertime).
 
 The sunmap was made in QGIS. The background map is the Norwegian Mapping Authority (Kartverket) N50 topo,
 and the county bounary of Oslo is "Administrative enheter fylker" by the Norwegian Mapping Authority.
